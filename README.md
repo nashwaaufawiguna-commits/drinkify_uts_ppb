@@ -1,114 +1,88 @@
-<p align="center">
-  <img src="assets/icon.png" width="200" height="200">
-</p>
-
 <h1 align="center">Drinkify</h1>
 <p align="center">
-  <em>Aplikasi resep minuman untuk UTS PPB</em>
+  <em>Aplikasi resep minuman untuk UTS Pemrograman Perangkat Bergerak</em>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-blue" alt="Platform">
   <img src="https://img.shields.io/badge/Framework-React%20Native-61DAFB" alt="Framework">
   <img src="https://img.shields.io/badge/Expo-000020?logo=expo" alt="Expo">
+  <img src="https://img.shields.io/badge/Status-Selesai-brightgreen" alt="Status">
 </p>
 
-## 📱 Screenshots
+## 📱 Tangkapan Layar
 <div align="center">
-  <img src="screenshots/home.jpg" width="200">
-  <img src="screenshots/search.jpg" width="200">
-  <img src="screenshots/detail.jpg" width="200">
+  <img src="screenshots/home.jpg" width="200" alt="Halaman Utama">
+  <img src="screenshots/pencarian.jpg" width="200" alt="Halaman Pencarian">
+  <img src="screenshots/detail.jpg" width="200" alt="Halaman Detail">
 </div>
 
-## ✨ Features
-- 🍹 **Explore Drinks** - Jelajahi berbagai resep minuman
-- 🔍 **Search Function** - Cari resep berdasarkan nama atau bahan
-- ⭐ **Favorite System** - Simpan resep favorit untuk akses cepat
-- 📖 **Detailed Recipes** - Panduan lengkap dengan bahan dan instruksi
-- 🎨 **Beautiful UI** - Antarmuka yang menarik dan user-friendly
+## ✨ Fitur Utama
+- 🍹 **Jelajahi Minuman** - Temukan berbagai resep minuman dari seluruh dunia
+- 📖 **Resep Detail** - Panduan lengkap dengan bahan dan langkah pembuatan
+- 🎨 **Antarmuka Menarik** - Desain yang modern dan mudah digunakan
+- 📱 **Responsif** - Tampilan optimal di berbagai ukuran layar
 
-## 🛠️ Tech Stack
-- **React Native** - Mobile framework
-- **Expo** - Development platform
-- **React Navigation** - Navigation handling
-- **AsyncStorage** - Local storage
-- **JavaScript/ES6+** - Programming language
+## 🛠️ Teknologi yang Digunakan
+- **React Native** - Framework untuk pengembangan aplikasi mobile
+- **Expo** - Platform pengembangan React Native
+- **React Navigation** - Manajemen navigasi antar layar
+- **AsyncStorage** - Penyimpanan data lokal
+- **JavaScript/ES6+** - Bahasa pemrograman utama
 
-## 🚀 Getting Started
+## 🚀 Memulai
 
-### Prerequisites
-- Node.js (v14 or newer)
-- npm or yarn
+### Prasyarat
+- Node.js (versi 14 atau lebih baru)
+- npm atau yarn
 - Expo CLI
-- Android Studio / Xcode (for emulator) or physical device
+- Android Studio / Xcode (untuk emulator) atau perangkat fisik
 
-### Installation
+### Instalasi
 
-1. **Clone the repository**
+1. **Clone repository**
    ```bash
-   git clone https://github.com/nashwaaufawiguna-commits/drinkify_uts_ppb.git
-   cd drinkify_uts_ppb
+   git clone https://github.com/username/resep-masak.git
+   cd resep-masak
    ```
 
 2. **Install dependencies**
    ```bash
-   npm install
-   # or
-   yarn install
+    flutter pub get
    ```
 
-3. **Start the application**
+3. **Jalankan aplikasi**
    ```bash
-   npm start
-   # or
-   yarn start
+   flutter run
    ```
 
-4. **Run on device**
-   - Scan QR code with Expo Go app (Android/iOS)
-   - Press 'a' for Android emulator
-   - Press 'i' for iOS simulator
+4. **Jalankan di perangkat**
+   ```bash
+   flutter build apk     # Untuk Android
+   flutter build ios     # Untuk iOS
+   ```
 
-## 📁 Project Structure
-```
-drinkify_uts_ppb/
-├── assets/
-│   ├── fonts/
-│   ├── images/
-│   └── icon.png
-├── src/
-│   ├── components/
-│   │   ├── Button.js
-│   │   ├── Card.js
-│   │   └── Header.js
-│   ├── screens/
-│   │   ├── HomeScreen.js
-│   │   ├── SearchScreen.js
-│   │   ├── DetailScreen.js
-│   │   └── FavoritesScreen.js
-│   ├── navigation/
-│   │   └── AppNavigator.js
-│   └── utils/
-│       └── constants.js
-├── App.js
-├── app.json
-└── package.json
-```
+## 📋 Cara Penggunaan
+1. Buka aplikasi Drinkify
+2. Jelajahi resep minuman di halaman utama
+3. Ketuk pada resep untuk melihat detail lengkap
 
-## 🤝 Contributing
-This project is developed as part of Mobile Programming Midterm Exam (UTS PPB).
+## 🤝 Kontributor
+Proyek ini dikembangkan sebagai bagian dari Ujian Tengah Semester (UTS) mata kuliah Pemrograman Perangkat Bergerak.
 
-**Developer:**
-- **Nashwa Aufa W.**
+**Pengembang:**
+- **Nashwa Aufa Wiguna**
 
-**Course:** Pemrograman Perangkat Bergerak (PPB)  
-**Institution:** [Nama Universitas]
+**Mata Kuliah:** Pemrograman Perangkat Bergerak (PPB)  
+**Program Studi:** Teknik Informatika 
+**Universitas:** Universitas Muhammadiyah Bandung
 
-## 📝 License
-This project is created for academic purposes as part of the Mobile Programming Midterm Exam.
+## 📝 Lisensi
+Proyek ini dibuat untuk tujuan akademik sebagai bagian dari UTS Pemrograman Perangkat Bergerak. Tidak untuk tujuan komersial.
 
 ---
 
 <div align="center">
-  Made with ❤️ for UTS PPB
+  Dibuat dengan ❤️ untuk UTS PPB
 </div>
+```
