@@ -70,6 +70,7 @@ Proyek ini dikembangkan sebagai bagian dari Ujian Tengah Semester (UTS) mata kul
 
 **Mata Kuliah:** Pemrograman Perangkat Bergerak (PPB)  
 **Program Studi:** Teknik Informatika 
+
 **Universitas:** Universitas Muhammadiyah Bandung
 
 ## 📝 Lisensi
