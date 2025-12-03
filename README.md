@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-blue" alt="Platform">
   <img src="https://img.shields.io/badge/Framework-React%20Native-61DAFB" alt="Framework">
-  <img src="https://img.shields.io/badge/Expo-000020?logo=expo" alt="Expo">
   <img src="https://img.shields.io/badge/Status-Selesai-brightgreen" alt="Status">
 </p>
 
@@ -24,7 +23,6 @@
 
 ## 🛠️ Teknologi yang Digunakan
 - **React Native** - Framework untuk pengembangan aplikasi mobile
-- **Expo** - Platform pengembangan React Native
 - **React Navigation** - Manajemen navigasi antar layar
 - **AsyncStorage** - Penyimpanan data lokal
 - **JavaScript/ES6+** - Bahasa pemrograman utama
@@ -34,7 +32,6 @@
 ### Prasyarat
 - Node.js (versi 14 atau lebih baru)
 - npm atau yarn
-- Expo CLI
 - Android Studio / Xcode (untuk emulator) atau perangkat fisik
 
 ### Instalasi
