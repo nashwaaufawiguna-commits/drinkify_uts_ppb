@@ -78,8 +78,3 @@ Proyek ini dikembangkan sebagai bagian dari Ujian Tengah Semester (UTS) mata kul
 Proyek ini dibuat untuk tujuan akademik sebagai bagian dari UTS Pemrograman Perangkat Bergerak. Tidak untuk tujuan komersial.
 
 ---
-
-<div align="center">
-  Dibuat dengan ❤️ untuk UTS PPB
-</div>
-```
