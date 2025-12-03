@@ -67,6 +67,7 @@
 Proyek ini dikembangkan sebagai bagian dari Ujian Tengah Semester (UTS) mata kuliah Pemrograman Perangkat Bergerak.
 
 **Pengembang:** **Nashwa Aufa Wiguna**
+
 **Mata Kuliah:** Pemrograman Perangkat Bergerak (PPB)  
 **Program Studi:** Teknik Informatika 
 **Universitas:** Universitas Muhammadiyah Bandung
