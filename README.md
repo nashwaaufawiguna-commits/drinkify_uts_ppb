@@ -12,9 +12,8 @@
 
 ## 📱 Tangkapan Layar
 <div align="center">
-  <img src="screenshots/home.jpg" width="200" alt="Halaman Utama">
-  <img src="screenshots/pencarian.jpg" width="200" alt="Halaman Pencarian">
-  <img src="screenshots/detail.jpg" width="200" alt="Halaman Detail">
+  <img src="Pictures/home.jpg" width="200" alt="Halaman Utama">
+  <img src="Pictures/detail.jpg" width="200" alt="Halaman Detail">
 </div>
 
 ## ✨ Fitur Utama
@@ -70,9 +69,7 @@
 ## 🤝 Kontributor
 Proyek ini dikembangkan sebagai bagian dari Ujian Tengah Semester (UTS) mata kuliah Pemrograman Perangkat Bergerak.
 
-**Pengembang:**
-- **Nashwa Aufa Wiguna**
-
+**Pengembang:** **Nashwa Aufa Wiguna**
 **Mata Kuliah:** Pemrograman Perangkat Bergerak (PPB)  
 **Program Studi:** Teknik Informatika 
 **Universitas:** Universitas Muhammadiyah Bandung
