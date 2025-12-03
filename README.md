@@ -1,6 +1,6 @@
-<h1 align="center">Drinkify</h1>
+<h1 align="center">🍹Drinkify🍹</h1>
 <p align="center">
-  <em>Aplikasi resep minuman untuk UTS Pemrograman Perangkat Bergerak</em>
+  <em>Aplikasi resep minuman kekinian</em>
 </p>
 
 <p align="center">
